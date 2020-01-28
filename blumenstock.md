@@ -1,8 +1,9 @@
-# Reading 1: Don't forget people in the use of big data for development
-January 28, 2020 
+## Reading 1: Don't forget people in the use of big data for development
 Sydney Taylor 
 
-## Blumenstock Response
+January 28, 2020 
+
+# Blumenstock Response
 In order to discuss human development, it is important for companies to understand the data they collect and the impact of their information. Companies such as Facebook, Google and Waze use "big data" in order to further understand their consumers. This data refers to information collected from cellphones and satellites regarding personal information and location. Other non-profit organizations such as  GiveDirectly, use this big data to provide money and resources to those in need. Digital maps created by social media platforms and smartphone companies provide information about the world, furthering scientific understanding of poor communities withn developing countries. Although this data is very beneficial to human development, often this information is greatly misused. Throughout Joshua Blumenstock's article, he explains that technology has the power to help but also harm a company's understanding of international development. 
  
 While this data has the intention to better the human race, often this information does more harm than good. For example, GiveDirectly is a non-profit organization that helps people in developing countries obtain bank loans. However, there are discrepancies when providing money to the right people in need. GiveDirectly would use satellite maps to give money to communities with thatched roofs. The intention to provide money for those in need was positive, but the outcome was poor. Families would put thatched roofs on their houses in order to obtain the money that did they did not necessarily need. When using data science, it is important to keep track of major discrepancies that will negatively impact the human race rather than improve it. 
