@@ -1,5 +1,5 @@
 # Catalog of Work
-https://github.com/sydneytaylr/workshop-/settings
+
 Sydney Taylor 
 
 ## Responses to Readings 
