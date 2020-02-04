@@ -4,7 +4,7 @@ Sydney Taylor
 
 ## Responses to Readings 
 
-1. [Blumenstock Response](https://sydneytaylr.github.io/workshop1/) (Jan. 28) 
+1. [Blumenstock Response](https://github.com/sydneytaylr/workshop1/blob/master/blumenstock.md) (Jan. 28) 
 
 2. [Blumenstock Response smthng](https://sydneytaylr.github.io/workshop1/blumenstock/) (Jan 28) 
 
