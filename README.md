@@ -6,9 +6,7 @@ Sydney Taylor
 
 1. [Blumenstock Response](https://github.com/sydneytaylr/workshop1/blob/master/blumenstock.md) (Jan. 28) 
 
-2. [Blumenstock Response smthng](https://sydneytaylr.github.io/workshop1/blumenstock/) (Jan 28) 
-
-## Projects 
+2. [Jahan Response]
 
 1. 
 
