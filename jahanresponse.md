@@ -1,3 +1,3 @@
 ## Jahan Response 
 
-In Jahan's podcast, "What is human development," he discusses the importance of data science and its impact on the human race.
+In Jahan's podcast, "What is human development," he discusses the importance of data science and its impact on the human race. He begins his podcast with the discussion of human development itself. He explains it as the intersectionality of economic, social and political processes that enlarge human choices in every aspect of life. In order for the human race to reach its full potential, capabilties must be enhanced and opportunities must be more accessible for all. This approach to human development taks data science even further, as not just a quantitative analysis but qualitative as well. As concrete ways to better the world, he mentions three aspects. The first discusses income itself. This is a critical ingredient of 
