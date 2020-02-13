@@ -1,4 +1,5 @@
 Sydney Taylor 
+
 February 13, 2020 
 
 ## Assigment 1 - Annotated Bibliography
