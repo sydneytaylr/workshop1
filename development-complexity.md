@@ -1,4 +1,5 @@
-# Development and Complexity Class Discussion Questions 
+# Development and Complexity Reading - Barder
+Class Discussion Questions 
 
 1. Why does Barder recommend resisting engineering as a policy implication? What did he mean by isomorphic mimicry? 
 
