@@ -12,12 +12,5 @@ Sydney Taylor
 
 ## Assignments 
 
-1. Annotated Bibliography (framework) 
-  - problem statement 
-    - harms
-    - significance of harms 
-    - inherent nature of the problem 
-  - selected LMIC Region 
-  - Dimension of Human Development 
-
+1. [Annotated Bibliography] (https://github.com/sydneytaylr/workshop1/blob/master/Assignment_1) (Feb. 23)
 2. Literature Review 
