@@ -1,6 +1,9 @@
 Sydney Taylor 
+
 Tyler Frazier 
+
 Data 150 
+
 23 February 2020
 
 ## Assigment 1 - Annotated Bibliography
