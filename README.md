@@ -8,6 +8,7 @@ Sydney Taylor
 
 2. [Jahan Response](https://sydneytaylr.github.io/workshop1/jahanresponse) (Feb. 4) 
 
+3. [Development and Complexity Discussion Questions](https://sydneytaylr.github.io/workshop1/development-complexity) (Feb. 17)
 
 ## Assignments 
 
