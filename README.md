@@ -2,7 +2,7 @@
 
 Sydney Taylor 
 
-## Responses to Readings 
+## Reading Responses 
 
 1. [Blumenstock Response](https://sydneytaylr.github.io/workshop1/blumenstock) (Jan. 28) 
 
