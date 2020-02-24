@@ -12,5 +12,5 @@ Sydney Taylor
 
 ## Assignments 
 
-1. [Annotated Bibliography] (https://github.com/sydneytaylr/workshop1/blob/master/Assignment_1) (Feb. 23)
+1. [Annotated Bibliography](https://github.com/sydneytaylr/workshop1/blob/master/Assignment_1) (Feb. 23)
 2. Literature Review 
