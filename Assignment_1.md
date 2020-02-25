@@ -47,5 +47,6 @@ Problem Statement:
 
    ​	This article also compares out-of-school rates in countries along with their income rates. According to Table 2 on page 12, about 32.4 percent of people are not in school. In high-income countries, about 3.5 percent of people are out-of-school. This significant difference in enrollment rates explains the importance of human development. As long as governmnet insitutions and data scientists are dedicated to helping the individual, these numbers will shift. The creators of this article understand that the basis of human development is social opportunity. If there are more possibilities for young students to have schools to enroll in, West Africa will have a much higher education rate overall. Data scientists throughout the world must use this information when creating policies and laws that impose on people from this region. The Fourth Sustainable Developmental Goal emphasizes this ideology. As long as young kids have schools to attend, education rates will rise. As education rates rise, overall social, political and economic opportunities will significantly improve.
 
+
    ​	
 
