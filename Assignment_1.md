@@ -2,7 +2,7 @@ Sydney Taylor
 
 23 February 2020
 
-## Assigment 1 - Annotated Bibliography
+## Assignment 1 - Annotated Bibliography
 
 ### Annotations
 
