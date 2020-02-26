@@ -10,7 +10,7 @@ Sydney Taylor
 
 3. [Development and Complexity Discussion Questions](https://sydneytaylr.github.io/workshop1/development-complexity) (Feb. 17)
 
-4. 
+4. [Anderson Response](https://sydneytaylr.github.io/workshop1/AndersonKitchin) (Feb. 25) 
 
 ## Assignments 
 
