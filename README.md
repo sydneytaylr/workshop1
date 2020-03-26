@@ -12,6 +12,8 @@ Sydney Taylor
 
 4. [Anderson Response](https://sydneytaylr.github.io/workshop1/AndersonKitchin) (Feb. 25) 
 
+5. [Random Forest Response](https://sydneytaylr.github.io/workshop1/)
+
 ## Assignments 
 
 1. [Annotated Bibliography](https://sydneytaylr.github.io/workshop1/Assignment_1) (Feb. 23)
