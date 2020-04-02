@@ -18,26 +18,44 @@
   This topic is closely related to the Fourth Sustainable Development Goal created by the United Nations. This goal “ensures inclusive and equitable quality education and promise lifelong learning opportunities for all.” While it is extremely difficult to ensure this for all people, developing nations must make an effort to make this goal a reality. Education is powerful. It is integral to the proper function and development of all. The fourth goal also mentions that “all learners acquire the knowledge or skills needed to promote sustainable development, including… promotion of peace and non-violence, global citizenship and appreciation of cultural diversity.”  The understanding and overall comparison of this region to the rest of the world will inform others on the impact of education. Therefore, a functional society will develop from a viable educational system. 
  
 ### III. HUMAN DEVELOPMENT PROCESS 
-- DESCRIBE THE PROCESS
-   
-   West Africa is the most populated region in the entire continent. With a total of 386 million people, it is described as the fastest growing population in the world at a "2-4% annual growth rate." The increasing population density makes the region much more vulnerable to the dangers of overpopulation. This includes the scarcity of resources, such as water, food and shelter. As tensions continue to increase, the region struggles to properly support its citizens, making human development much more difficult. Among communities throughout West Africa, millions do not have access to a proper education. Each country differs in school attendance, educational opportunities and literacy rates. According to UNESCO's document on Migration and Education in West Africa, "with the exception of Ghana and Cabo Verde, more than half of adolescents are not enrolled in secondary schools." So what causes this gap? Data collected by Nonso Obikili explains that the slave trade, cultural values and their impact on social capital has changed the value and practice of education for generations. 
+  
+  West Africa is the most populated region in the entire continent. With a total of 386 million people, it is described as the fastest growing population in the world at a "2-4% annual growth rate." The increasing population density makes the region much more vulnerable to the dangers of overpopulation. This includes the scarcity of resources, such as water, food and shelter. As tensions continue to increase, the region struggles to properly support its citizens, making human development much more difficult. Among communities throughout West Africa, millions do not have access to a proper education. Each country differs in school attendance, educational opportunities and literacy rates. According to UNESCO's document on Migration and Education in West Africa, "with the exception of Ghana and Cabo Verde, more than half of adolescents are not enrolled in secondary schools." So what causes this gap? Data collected by Nonso Obikili explains that the slave trade, cultural values and their impact on social capital has changed the value and practice of education for generations. 
    
    During the Transatlantic slave trade, millions of Africans were violently stolen from their homes. Colonizers influenced and invaded lands, implementing ideologies and values. Among colonizers, missionaries entered in an attempt to spread their religions through education and social practices. Typically, regions located near the coasts of West Africa were influenced the most and recieved the most slave intensity than those inward. 
    
   During the colonial period, countries like Nigeria and Ghana did not exist. West Africa consisted of various regional ethnic groups that were affected by the slave trade at different levels of intensity. Obikili terms this focus as "ethnic fractionalism," explaining the power of ethnic groups on the growth and development of individuals. Each group has different values based on their cultures and income levels. For example, in Botswana "schooling was concieved as a burden on the family because of both the new expenditures associated with schooling and the loss of the child's contribution to the household production and income" (Obikili 13). In many communities during the slave trade, many people were educated by agriculture itself, ultimately allowing them to provide for their families. These educational values must be kept in consideration when understanding West Africa's low education rates. 
    
-- ANALYZE THE PROCESS 
-
-
+(how does your human development process behave as a complex adaptive social system and/or economic system? how does scale play a role? does your process exhibit emergence?)
+   
 
 ### IV. GEOSPATIAL DATA SCIENCE METHODS 
 
-  According to the UNESCO Census, literacy is “beyond reading and writing. It is a means of identification, understanding, interpretation, creation, communication, in an increasingly digital, text-mediated, information rich and fast-changing world.”  Literacy can be measured by household surveys that are used to analyze reading and writing abilities in any particular langauge. In Nonso Obikili's work, he specifically measures literacy rates in Nigeria and Ghana with UNESCO's definition of literacy itself. For validation, Obikili decided to measure two different categories of literacy rates to prevent biases: standard and extended literacy rates. Standard literacy rates specifically focus on the English language, while extended rates include Arabic as well. The extension of these numbers create more accurate datasets that are justly applicable to the studied regions in Nigeria and Ghana. 
-  Uniquely, Obikili focuses on the 
+  As further analysis, the Demographic Heath Survey provides further explanation of modern literacy rates in each country. Nonso Obikili published his datasets in 2015, but more recent data tends to support his findings as well.
   
+  According to the UNESCO Census, literacy is “beyond reading and writing. It is a means of identification, understanding, interpretation, creation, communication, in an increasingly digital, text-mediated, information rich and fast-changing world.”  Literacy can be measured by household surveys that are used to analyze reading and writing abilities in any particular langauge. In Nonso Obikili's work, he specifically measures literacy rates in Nigeria and Ghana with UNESCO's definition of literacy itself. For validation, Obikili decided to measure two different categories of literacy rates to prevent biases: standard and extended literacy rates. Standard literacy rates specifically focus on the English language, while extended rates include Arabic as well. The extension of these numbers create more accurate datasets that are justly applicable to the studied regions in Nigeria and Ghana. 
+ 
   Along with literacy rates, the Obikili also uses a different formula to determine slave intensity during the colonial period. He uses data from slave exports divided by the earliest population of ethnic groups reported in specific regions. 
   
   
+  1. geospatial data science methods 
+  	(a) identify them 
+	(b) describe them 
+  2. geospatial datasets used 
+  	(a) remotely sensed data (raster) 
+		i. identify source, describe data 
+			A. Sample size
+			B. variables
+			C. primary or secondary 	
+	(b) survey data 
+		i. identify source, describe data 
+			A. Sample size
+			B. variables
+			C. primary or secondary 
+			
+Discussion 
+1. Reflect upon progress thus far 
+2. Try to identify an area in the literature when a research gap exists 
+3. Draft a proposal central research question
   
   
   
