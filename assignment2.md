@@ -1,4 +1,6 @@
+# ( The Analysis of Education rates in West Africa Through Survey Data for Improved Prediction of the Improvement of Literacy Rates in Nigeria and Ghana )
 
+Sydney Taylor 
 
 ### I. INTRODUCTION
 
@@ -30,29 +32,30 @@
 
 ### IV. GEOSPATIAL DATA SCIENCE METHODS 
 
-Along with standard literacy rates, the Obikili uses a different formula to determine slave intensity during the colonial period. He uses data from slave exports divided by the earliest population of ethnic groups reported in specific regions. He found thay during the colonial era, there was a negative correlation between intensity with standard and extended literacy rates. In Table 2, he found "-5.35% correlation between slave export and standard literacy rates." This correlation is common throughout all of his research, proving that there may be a relationship between the two factors. This table also adds other factors, including other control variables like the fraction of those employed in agriculture, christian missions dummy and the fraction of females within the region. Finally, he also found added more factords into his third analysis, emphasizing distance from the coast, historic population density, and malaria ecology. All of the datasets mentioned increase in detail, but all three findings have a strong negative correlation. So what does this say about literacy and colonization? They must have a relationship. Obikili also focuses on extended literacy rates. These rates are much higher than the standard, explaining that literacy is does not just include the english language. This western perspective of education has impacted past research studies but Obikili makes an effort to change this narrative. 
-	- northern districts had higher extended literacy rates 
-	- southern districts had poor standard literacy rates (colonization coastal) 
+The first method mentioned in Obikili’s work is a scatter plot with all fifteen countries in West Africa. The graph explains the correlation between slave intensity and literacy rates per country. HIs findings represented a negative relationship that is further explained throughout his paper. First, he uses a least squares regression model. This model helps him determine if there is a true correlation between literacy and slave intensity. 
 
-As further analysis, the Demographic Heath Survey provides an explanation of modern literacy rates in each country. Nonso Obikili published his datasets in 2015, but more recent data supports his findings as well. In 2018, NDHS conducted numerous surveys throughout Nigeria. NDHS "interviewed 41,821 women ages 15-49 and 13,311 men age 15-59. The majority of women and men surveyed were under the age of 30" (83). Based on the data collected, men are more educated than women. In Figure 3.1, about 35% of women have not recieved an education in comparison to 22% of men. As the levels of education increase, women tend to fall behind their male counterparts. 
+	- Slave intensity = slave exports / earliest population of ethnic groups reported
 
-Furthermore, Obikili's data explains how the transatlantic slave trades impact on literacy was not gender-specific. Obikili uses information from the Nigerian literacy Survey conducted in 2010. This survey measures the literacy rates among men in women throughout Nigeria. He found a strong negative correlation between slave exports and literacy rates for both genders. 
- 
-Literacy rates are also determined by the administration and their value towards education itself and low life-expectancies. Rural areas in West Africa deeply valued agriculture 
+The slave exportation was collected from historical documents found from the transatlantic slave trades. These were primary sources. The early population of ethnic groups was collected from census surveys and past datasets collected in Africa during the early 18th and 19th centuries. 
 
+	- Slave intensity = slave exports / land era occupied 
+	
+Throughout his research, he applies numerous factors of the data collected to back up his findings. Using this method, he discovered that during the colonial era there was a negative correlation between intensity with standard and extended literacy rates.  In Table 2, he found “-5.35% correlation between slave export and standard literacy rates.” This correlation is common throughout all of his research. This table also calculates other factors, including the fraction of those employed in agriculture, christian missionaries and the fraction of females within the region. In his third analysis, he added new factorials  emphasizing the region’s distance from the coast, historic population density, and malaria ecology. The datasets mentioned differentiate in detail, but all three findings have a strong negative correlation with slave intensity and literacy. So what does this say about literacy and colonization? They must have a relationship. 
 
-	- rural v. suburban? 
-	- colonizers as leaders? 
-	- affect their influence? 
+Obikili also focuses on extended literacy rates. These rates are much higher than the standard rates, explaining that literacy is does not just include the english language. This western perspective of education has impacted past research studies but Obikili makes an effort to change this narrative. In northern districts, Islamic education was a significant aspect of education. Therefore, they had much higher extended literacy rates than in the southern Nigeria. Using census data, southern districts also showed strong negative correlations of education that have been impacted by colonization itself. 
+As further analysis, the Demographic Heath Survey provides an explanation of modern literacy rates in each country. Nonso Obikili published his datasets in 2015, but more recent data supports his findings as well. In 2018, NDHS conducted numerous surveys throughout Nigeria. NDHS “interviewed 41,821 women ages 15-49 and 13,311 men age 15-59. The majority of women and men surveyed were under the age of 30” (83). Based on the data collected, men are more educated than women. In Figure 3.1, about 35% of women have not recieved an education in comparison to 22% of men. As the levels of education increase, women tend to fall behind their male counterparts.
 
-Post-colonial period, the literacy rates still have a negative correlation. 
+Obikili’s data also explains how the transatlantic slave trades impact on literacy was not gender-specific. Obikili uses information from the Nigerian literacy Survey conducted in 2010. This survey measures the literacy rates among men in women throughout Nigeria. He found a strong negative correlation between slave exports and literacy rates for both genders. Out of 37 ethnic groups studied, the effect of slave intensity for men was “-17.10%, while women at -13.24%.”
 
 			
 ### Discussion 
-1. Reflect upon progress thus far 
-2. Try to identify an area in the literature when a research gap exists 
-3. Draft a proposal central research question
-  
+
+After researching West Africa's education rates, I have discovered that the region is extremely fascinating. West Africa represents the human development process, the desire for social equality and prosperity. The regions history of colonization is a perfect example of what makes this region so unique. It is a mixture of cultures, values and practices. It is a combination of privilege and poverty with the intersection of ethnic groups. My studies have been extremely rewarding thus far, allowing me to change the narrative of what it means to be literate and step away from western perspectives. Literacy does not determine a regions success, yet it is extremely important in supporting society. The transatlanic slave trade has defined this region in the eyes of many and has created misconceptions about West Africa's progression. Although, the post-colonial period does show that there must be a negative correlation between slave intenisty and education rates. 
+
+In the conclusion of Obikili's paper, he believes that there is no perfect explanation for West Africa's low education rates. His various studies show that there is a negative correlation, yet in the post-colonial period, or modern times, there must be a permanent affect that cannot be pinpointed specifically. So, is modern education rates a social or political issue? Does the history of colonization truely explain why West Africa struggles to support its complex systems? This gap is extremely important because it is at the basis of my research question. Obikili's research was very interesting. It proved that there is a relationship between education and slavery, but what does this relationship exactly tell us? Education is complex and is influenced by numerous factors. It is important that data scientists create analyses that think about the strength of academics among individuals, despite where they live, who they are, or how much they have. 
+
+Finally, I have pitched a research question that represents the purpose of my study: 
+
   
   
   
