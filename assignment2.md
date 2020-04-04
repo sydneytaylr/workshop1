@@ -1,6 +1,5 @@
-# ( The Analysis of Education rates in West Africa Through Survey Data for Improved Prediction of the Improvement of Literacy Rates in Nigeria and Ghana )
+# Analysis of Education rates in West Africa Through Survey Data for an Improved Prediction of Literacy Rates in Nigeria and Ghana 
 
-Sydney Taylor 
 
 ### I. INTRODUCTION
 
