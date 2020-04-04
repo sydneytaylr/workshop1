@@ -30,38 +30,23 @@
 
 ### IV. GEOSPATIAL DATA SCIENCE METHODS 
 
-- population density 
-
-As further analysis, the Demographic Heath Survey provides an explanation of modern literacy rates in each country. Nonso Obikili published his datasets in 2015, but more recent data supports his findings as well. In 2018, NDHS conducted numerous surveys throughout Nigeria. NDHS "interviewed 41,821 women ages 15-49 and 13,311 men age 15-59. The majority of women and men surveyed were under the age of 30" (83). Based on the data collected, men are more educated than women. In Figure 3.1, about 35% of women have not recieved an education in comparison to 22% of men. As the levels of education increase, women tend to fall behind their male counterparts. 
-# (Obikili's perspective) 
- 
-Along with standard literacy rates, the Obikili also uses a different formula to determine slave intensity during the colonial period. He uses data from slave exports divided by the earliest population of ethnic groups reported in specific regions. He found thay during the colonial era, there was a negative correlation between intensity with standard and extended literacy rates. In Table 2, he found "-5.35% correlation between slave export and standard literacy rates." This correlation is common throughout all of his research, proving that there may be a relationship between the two factors. This table also adds other factors, including other control variables like the fraction of those employed in agriculture, christian missions dummy and the fraction of females within the region. Finally, he also found added more factords into his third analysis, emphasizing distance from the coast, historic population density, and malaria ecology. All of the datasets mentioned increase in detail, but all three findings have a strong negative correlation. So what does this say about literacy and colonization? They must have a relationship. Obikili also focuses on extended literacy rates. These rates are much higher than the standard, explaining that literacy is does not just include the english language. This western perspective of education has impacted past research studies but Obikili makes an effort to change this narrative. 
+Along with standard literacy rates, the Obikili uses a different formula to determine slave intensity during the colonial period. He uses data from slave exports divided by the earliest population of ethnic groups reported in specific regions. He found thay during the colonial era, there was a negative correlation between intensity with standard and extended literacy rates. In Table 2, he found "-5.35% correlation between slave export and standard literacy rates." This correlation is common throughout all of his research, proving that there may be a relationship between the two factors. This table also adds other factors, including other control variables like the fraction of those employed in agriculture, christian missions dummy and the fraction of females within the region. Finally, he also found added more factords into his third analysis, emphasizing distance from the coast, historic population density, and malaria ecology. All of the datasets mentioned increase in detail, but all three findings have a strong negative correlation. So what does this say about literacy and colonization? They must have a relationship. Obikili also focuses on extended literacy rates. These rates are much higher than the standard, explaining that literacy is does not just include the english language. This western perspective of education has impacted past research studies but Obikili makes an effort to change this narrative. 
 	- northern districts had higher extended literacy rates 
 	- southern districts had poor standard literacy rates (colonization coastal) 
 
-Literacy rates are also determined by the administration and their value towards education itself.
+As further analysis, the Demographic Heath Survey provides an explanation of modern literacy rates in each country. Nonso Obikili published his datasets in 2015, but more recent data supports his findings as well. In 2018, NDHS conducted numerous surveys throughout Nigeria. NDHS "interviewed 41,821 women ages 15-49 and 13,311 men age 15-59. The majority of women and men surveyed were under the age of 30" (83). Based on the data collected, men are more educated than women. In Figure 3.1, about 35% of women have not recieved an education in comparison to 22% of men. As the levels of education increase, women tend to fall behind their male counterparts. 
+
+Furthermore, Obikili's data explains how the transatlantic slave trades impact on literacy was not gender-specific. Obikili uses information from the Nigerian literacy Survey conducted in 2010. This survey measures the literacy rates among men in women throughout Nigeria. He found a strong negative correlation between slave exports and literacy rates for both genders. 
+ 
+Literacy rates are also determined by the administration and their value towards education itself and low life-expectancies. Rural areas in West Africa deeply valued agriculture 
+
+
 	- rural v. suburban? 
 	- colonizers as leaders? 
 	- affect their influence? 
 
 Post-colonial period, the literacy rates still have a negative correlation. 
 
-
-  
-  1. geospatial data science methods 
-  	(a) identify them 
-	(b) describe them 
-  2. geospatial datasets used 
-  	(a) remotely sensed data (raster) 
-		i. identify source, describe data 
-			A. Sample size
-			B. variables
-			C. primary or secondary 	
-	(b) survey data 
-		i. identify source, describe data 
-			A. Sample size
-			B. variables
-			C. primary or secondary 
 			
 ### Discussion 
 1. Reflect upon progress thus far 
