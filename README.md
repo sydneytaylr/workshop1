@@ -14,6 +14,8 @@ Sydney Taylor
 
 5. [Random Forest Response](https://sydneytaylr.github.io/workshop1/randomforest) (Mar. 25)
 
+6. Nieves Response 
+
 ## Assignments 
 
 1. [Annotated Bibliography](https://sydneytaylr.github.io/workshop1/Assignment_1) (Feb. 23)
