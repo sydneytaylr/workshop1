@@ -1,4 +1,6 @@
+# The Analysis of Two Linear Regression Models that Demonstrate the Relationship Between History and Modern Development Using the Transatlantic Slave Trade in West Africa
 
+Sydney Taylor 
 
 ### INTRODUCTION
 
@@ -42,14 +44,11 @@ The second geospatial model is the linear regression model used by Edoardo Teso.
 
 In Table 2, Teso shows the results of his linear regression model and the effect of the slave trade on occupations. The data is divided into eight separate working groups: agriculture, high ranking, manual work, clerical, household/domestic and education. The purpose of this specific study was to determine the likelihood of a woman being hired in various workng fields in modern society. Interestingly, "the estimation suggested that the increase in a woman's probability of being employed can be entirely rationalized by an increase in the likelihood that she has a relatively higher ranking occupation." According to findings, he discovered that regions with higher impacts of the slave trade were more likely to have a higher ranking job. 
 
+![Image 4-19-20 at 3 02 PM](https://user-images.githubusercontent.com/60228358/79697121-da50a680-824e-11ea-8b75-3d9d780cdd61.jpg)
 
+### DISCUSSION
 
-
-
-
-
-
-
+Furthermore, both methods have used a linear regression model to explain how history and modern development have a relationship. While positive or negative, both documents support that there must be a correlation. In Obikili's document, he stresses the major impact the transatlantic slave trade had on education itself. But at the conclusion of his essay, he emphasized that there is no perfect explanation for their relationship. Regions with high slave intensity have historically lower literacy rates, but these numbers may have been influenced more by cultural values in specific ethnic groups than by the trade itself. In contrast, Teso's research explained a positive relationship between the transatlantic slave trade and job opportuntities for women. He found that the higher slave intensity within a particular region, the more job opportuntites wrre available for women in higher rankings. These contrasting conclusions suggest that there is a relationship between history and human development. It may differ according to social systems, educations versus occupations. It is important to understand that there is not always a perfect answer in data science. Although, learning about different studies with contrasting results gives an explanation of the impact that history has on education itself. 
 
 
 
