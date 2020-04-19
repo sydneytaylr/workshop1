@@ -18,7 +18,7 @@ This research will use an explanatory inquiry, which focuses on the causes and e
 Obikili and Teso use the same liner regression model with two separate purposes. Obikili focuses on the Transatlantic slave trade's impact on education, while Teso focuses on its impact on gender roles. Both uses of data explain the aftermaths of the horrific and inhumane enslavement of African people, which has extended into modern society. Currently, the world has entered into the 2020, nearly two centuries after the slave trade was deemed illegal. The fact that West Africa still struggles today shows the impact of the slave trade. It is important to study and interpret the causes and effects of modern human development issues that may have been caused by the "tentacles" of enslavement throughout West Africa.
 
 
-### MODELS
+### MODEL #1
 
 The first geospatial model is Nonso Obikili's explanation of slave intensity's impact on modern literacy rates. His linear regression model calculates different factors that may have an influence on the relationship between literacy and slavery during the post-colonial era. These factors include employment in agriculture, Christian missionaries, historic distance from the coast, historic population density and malaria ecology index. 
 
@@ -36,7 +36,11 @@ One of the most interesting and straight-forward graphs in his research focused 
 
 ![image](https://user-images.githubusercontent.com/60228358/79696103-95c20c80-8248-11ea-8754-0de4d66e5885.png)
 
-The second geospatial model is the linear regression model used by Edoardo Teso. His research focuses on the impact the transatlantic slave trade has had on modern gender roles, specifically the work force, throughout West Africa. His hypothesis focuses on “the demographic shock to sex ratios- and the accompanying shock to women’s participation in activities outside the domestic sphere – persistently affected cultural beliefs and norms about the appropriate role of women in society” (Teso 7). In Table 1, Teso shows the results of his linear regression model. The data below is divided into eight separate groups. Groups 1-4 represent FLFP, Female Labor Force Participation, while groups 5-8 is Work Outside. These numbers show how the transatlantic slave trade does have strong correlation with gender roles within the work force. 
+### MODEL #2
+
+The second geospatial model is the linear regression model used by Edoardo Teso. His research focuses on the impact the transatlantic slave trade has had on modern gender roles, specifically the work force throughout West Africa. His hypothesis focuses on “the demographic shock to sex ratios- and the accompanying shock to women’s participation in activities outside the domestic sphere – persistently affected cultural beliefs and norms about the appropriate role of women in society” (Teso 7). In addition to the transatlantic slave trade, Teso also collects data from the Indian Ocean trade. His analysis of both slave trades provides more insight on the inmpact of history on modern society. 
+
+In Table 2, Teso shows the results of his linear regression model and the effect of the slave trade on occupations. The data is divided into eight separate working groups: agriculture, high ranking, manual work, clerical, household/domestic and education. The purpose of this specific study was to determine the likelihood of a woman being hired in various workng fields in modern society. Interestingly, "the estimation suggested that the increase in a woman's probability of being employed can be entirely rationalized by an increase in the likelihood that she has a relatively higher ranking occupation." According to findings, he discovered that regions with higher impacts of the slave trade were more likely to have a higher ranking job. 
 
 
 
