@@ -28,7 +28,7 @@ The first geospatial model is Nonso Obikili's explanation of slave intensity's i
 
 Using the equation above, he found that areas with higher intensities of slavery had negative correlations with low education/literacy rates. This data can be found on Table 9 within his research. 
  
-![image](https://user-images.githubusercontent.com/60228358/79695945-afaf1f80-8247-11ea-9c0a-198b16b6d2ac.png)
+![UNADJUSTEDNONRAW_thumb_16bc](https://user-images.githubusercontent.com/60228358/79700097-7388b880-8261-11ea-86a1-7604c588db22.jpg)
  
 The data above is divided into four separate groups. Obikili does this to prevent any western bias on literacy rates. Column 1 focuses on standard literacy; these refer to a person’s ability to read and write in English only. Column 2 uses extended rates which consists of Arabic, a dominant language spoken throughout Western Africa.  Columns 3 and 4 use both standard and extended literacy rates. All groups show a negative correlation between slave intensity and literacy during the post-colonial era. 
 
