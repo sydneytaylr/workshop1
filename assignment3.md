@@ -1,3 +1,5 @@
+
+
 ### INTRODUCTION
 
 The development of a nation is determined by the strength of its social systems. Successful countries throughout the world have developed because of their strong political, economic and social systems. During the sixteenth century, British colonizers invaded West Africa in search of resources and economic opportunities. Millions of Africans were violently stolen from their homes and shipped across the Atlantic Ocean, towards the Americas. This was known as the transatlantic slave trade. 
@@ -27,10 +29,11 @@ The table above also shows an R-squared calculation, the “statistical measure 
 
 One of the most interesting and straight-forward graphs in his research focused on the correlation between intensity and each country within West Africa. In a scatterplot, Obikili found a strong negative correlation between slavery and modern literacy rates. Some regions with higher intensities, meaning they were significantly affected by the slave trade and colonization itself, had the lowest education rates throughout West Africa. This graph represents the impact that history has on modern development.
 
+![image](https://user-images.githubusercontent.com/60228358/79696103-95c20c80-8248-11ea-8754-0de4d66e5885.png)
 
+The second geospatial model is the linear regression model used by Edoardo Teso. His research focuses on the impact the transatlantic slave trade has had on modern gender roles, specifically the work force, throughout West Africa. His hypothesis focuses on “the demographic shock to sex ratios- and the accompanying shock to women’s participation in activities outside the domestic sphere – persistently affected cultural beliefs and norms about the appropriate role of women in society” (Teso 7). In Table 1, Teso shows the results of his linear regression model. The data below is divided into eight separate groups. Groups 1-4 represent FLFP, Female Labor Force Participation, while groups 5-8 is Work Outside. These numbers show how the transatlantic slave trade does have strong correlation with gender roles within the work force. 
 
-
-The second geospatial model is the linear regression model used by Edoardo Teso. His research focuses on the impact the transatlantic slave trade has had on modern gender roles, specifically the work force, throughout West Africa. His hypothesis focuses on “the demographic shock to sex ratios- and the accompanying shock to women’s participation in activities outside the domestic sphere – persistently affected cultural beliefs and norms about the appropriate role of women in society” (Teso 7). In Table 1, Teso shows the results of his linear regression model. The data below is divided into eight separate groups. Groups 1-4 represent FLFP, Female Labor Force Participation, while groups 5-8 is Work Outside. 
+According to the R-squared value, groups 1-4 all have about a 22% which shows a very low variability to the mean. Out of the different observations within each dataset, the 0.018
 
 
 
