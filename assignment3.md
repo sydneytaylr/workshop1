@@ -48,8 +48,15 @@ In Table 2, Teso shows the results of his linear regression model and the effect
 
 ### DISCUSSION
 
-Furthermore, both methods have used a linear regression model to explain how history and modern development have a relationship. While positive or negative, both documents support that there must be a correlation. In Obikili's document, he stresses the major impact the transatlantic slave trade had on education itself. But at the conclusion of his essay, he emphasized that there is no perfect explanation for their relationship. Regions with high slave intensity have historically lower literacy rates, but these numbers may have been influenced more by cultural values in specific ethnic groups than by the trade itself. In contrast, Teso's research explained a positive relationship between the transatlantic slave trade and job opportuntities for women. He found that the higher slave intensity within a particular region, the more job opportuntites wrre available for women in higher rankings. These contrasting conclusions suggest that there is a relationship between history and human development. It may differ according to social systems, educations versus occupations. It is important to understand that there is not always a perfect answer in data science. Although, learning about different studies with contrasting results gives an explanation of the impact that history has on education itself. 
+Both methods have used a linear regression model to explain how history and modern development have a relationship. While positive or negative, both documents support that there must be a correlation. In Obikili's document, he stresses the major impact the transatlantic slave trade had on education itself. But at the conclusion of his essay, he emphasized that there is no perfect explanation for their relationship. Regions with high slave intensity have historically lower literacy rates, but these numbers may have been influenced more by cultural values in specific ethnic groups than by the trade itself. In contrast, Teso's research explained a positive relationship between the transatlantic slave trade and job opportuntities for women. He found that the higher slave intensity within a particular region, the more job opportuntites wrre available for women in higher rankings. These contrasting conclusions suggest that there is a relationship between history and human development. It may differ according to social systems, educations versus occupations. It is important to understand that there is not always a perfect answer in data science. Although, learning about different studies with contrasting results gives an explanation of the impact that history has on education itself. 
 
+### SOURCES 
+
+[1] Obikili, Nonso. “The Impact of the Slave Trade on Literacy in West Africa: Evidence from the Colonial Era.” Journal of African Economies, vol. 25, no. 1, 2016, pp. 1–27.
+
+[2] Edoardo Teso, The Long-Term Effect of Demographic Shocks on the Evolution of Gender Roles: Evidence from the transatlantic Slave Trade, Journal of the European Economic Association, Volume 17, Issue 2, April 2019, Pages 497–534,
+
+[3] Dakar. “Combating World's Lowest Literacy Rates.” The New Humanitarian, 2 Dec. 2015, www.thenewhumanitarian.org/news/2009/04/22/combating-worlds-lowest-literacy-rates.
 
 
 
