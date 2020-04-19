@@ -19,11 +19,12 @@ Obikili and Teso use the same liner regression model with two separate purposes.
 
 The first geospatial model is Nonso Obikili's explanation of slave intensity's impact on modern literacy rates. His linear regression model calculates different factors that may have an influence on the relationship between literacy and slavery during the post-colonial era. These factors include employment in agriculture, Christian missionaries, historic distance from the coast, historic population density and malaria ecology index. He found that areas with higher intensities of slavery had negative correlations with low education/literacy rates. This data can be found on Table 9 within his research. 
  
- 
- 
+![image](https://user-images.githubusercontent.com/60228358/79695945-afaf1f80-8247-11ea-9c0a-198b16b6d2ac.png)
  
 The data above is divided into four separate groups. Obikili does this to prevent any western bias on literacy rates. Column 1 focuses on standard literacy; these refer to a person’s ability to read and write in English only. Column 2 uses extended rates which consists of Arabic, a dominant language spoken throughout Western Africa.  Columns 3 and 4 use both standard and extended literacy rates. All groups show a negative correlation between slave intensity and literacy during the post-colonial era. 
+
 The table above also shows an R-squared calculation, the “statistical measure of how close the data are to the fitted regression line.” For groups 1 and 2, these numbers were nearly the same at 65% and 66%. This indicates that there is a high variability of the response data sets. This means that the model presented fits the data at about 65.5%. Although, columns 3 and 4 show a significantly low R-squared percentage. Both columns have a 17% ratio, so this model has a very low variability of the response data. 
+
 One of the most interesting and straight-forward graphs in his research focused on the correlation between intensity and each country within West Africa. In a scatterplot, Obikili found a strong negative correlation between slavery and modern literacy rates. Some regions with higher intensities, meaning they were significantly affected by the slave trade and colonization itself, had the lowest education rates throughout West Africa. This graph represents the impact that history has on modern development.
 
 
