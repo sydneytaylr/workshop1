@@ -36,6 +36,8 @@ The table above also shows an R-squared calculation, the “statistical measure 
 
 One of the most interesting and straight-forward graphs in his research focused on the correlation between intensity and each country within West Africa. In a scatterplot, Obikili found a strong negative correlation between slavery and modern literacy rates. Some regions with higher intensities, meaning they were significantly affected by the slave trade and colonization itself, had the lowest education rates throughout West Africa. This graph represents the impact that history has on modern development.
 
+![Image 4-19-20 at 5 13 PM](https://user-images.githubusercontent.com/60228358/79700054-2dcbf000-8261-11ea-866f-68b975921ca3.jpg)
+
 
 ### MODEL #2
 
