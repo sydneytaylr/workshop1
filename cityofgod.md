@@ -1,5 +1,7 @@
- 
+ ## CITY OF GOD IN-CLASS ESSAY 
+ by Sydney Taylor 
 
+### Essay Prompt: How  did  the  transformation  of  the  City  of  God  provide  evidence  for  how  social networks were central to Rio de Janeiro’s urbanization during the 60s, 70s & 80s?
 
   In the film, City of God, human development in Rio is depicted as both complex and extremely unique. The central culture is mixed with gang violence, murder, poverty and corruption throughout the city. The movie shows the cycle of violence though human development, which is prevalent within Rio. In the beginning of the film, the audience is introduced to Li’l Dice, a young man who is desperate to join a gang known as the Tender Trio. As a boy, Li’l Dice’s manhood was constantly question and he wanted to prove himself as a fourth member of the trio. When told to be the lookout at a hotel robbery, Li’l Dice murdered all the people inside of the building. With a smile on his face and satisfaction in his eyes, this massacre began his life of violence. As time progressed, he killed hundreds of people.. He eventually gained control of the city, becoming the ruler of the City of God. 
   
