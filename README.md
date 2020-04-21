@@ -24,4 +24,4 @@ Sydney Taylor
 
 3. [Investigation of a Methodology](https://sydneytaylr.github.io/workshop1/assignment3) (April. 19) 
 
-4. [City of God](https://sydneytaylr.github.io/workshop1/cityofgod.md) (April. 21) 
+4. [City of God](https://sydneytaylr.github.io/workshop1/cityofgod) (April. 21) 
